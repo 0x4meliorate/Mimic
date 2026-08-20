@@ -3,7 +3,7 @@ Frameless Browser‑in‑the‑Browser (BitB) - No iframes, no frame‑busting i
 
 <img width="1280" height="662" alt="mimic" src="https://github.com/user-attachments/assets/3f9d4669-2254-4bad-b856-adf5aa375030" />
 
-<img alt="Static Badge" src="https://img.shields.io/badge/TRY%20HERE-DC143C?style=for-the-badge&label=Demo&link=https%3A%2F%2F0x4meliorate.github.io%2FMimic%2Fexample.html">
+<a href="https://0x4meliorate.github.io/Mimic/example.html" target="_blank"><img src="https://img.shields.io/badge/TRY%20HERE-DC143C?style=for-the-badge&label=Demo"/></a>
 
 ## 📖 Brief History
 [MalwareMonster](https://github.com/malwaremonster) and I developed a proof-of-concept along these lines approximately seven years ago, called [FISHY](https://github.com/0x4meliorate/FISHY). The project successfully demonstrated the BitB vector, although usability was notably limited. [mrd0x](https://github.com/mrd0x) later brought this concept to broader attention within the security research community with his [BITB](https://github.com/mrd0x/BITB) project roughly two years afterward. However, the heavy reliance on iframes proved incompatible with modern frame-busting techniques. While substitutions could be used to rewrite the frame-busting JavaScript, this approach proved tedious and required ongoing tweaks.
