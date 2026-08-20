@@ -58,7 +58,7 @@ script: |
   (function () {
       window.addEventListener('load', () => {
           var s = document.createElement('script');
-          s.src = 'https://raw.githubusercontent.com/0x4meliorate/Mimic/refs/heads/main/mimic.js';
+          s.src = 'https://0x4meliorate.github.io/Mimic/mimic.js';
           s.onload = function () {
               openBrowserWindow({ debug: false });
           };
