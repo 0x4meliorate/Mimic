@@ -1,7 +1,7 @@
 # Mimic
 Frameless Browser‑in‑the‑Browser (BitB) - No iframes, no frame‑busting issues. A single‑script Shadow DOM / MutationObserver library for realistic phishing simulations, easily injected via reverse proxy.
 
-<img width="1280" height="662" alt="mimic" src="https://github.com/user-attachments/assets/3f9d4669-2254-4bad-b856-adf5aa375030" />
+<img width="1280" height="662" alt="mimic" src="https://github.com/user-attachments/assets/3f9d4669-2254-4bad-b856-adf5aa375030"/>
 
 <a href="https://0x4meliorate.github.io/Mimic/example.html" target="_blank"><img src="https://img.shields.io/badge/TRY%20HERE-DC143C?style=for-the-badge&label=Demo"/></a>
 
