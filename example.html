@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <h1>Hello World</h1>
+    <p>This is the main DOM content</p>
+    <script>
+        (function () {
+            window.addEventListener('load', () => {
+                var s = document.createElement('script');
+                s.src = 'https://0x4meliorate.github.io/Mimic/mimic.js';
+                s.onload = function () {
+                    openBrowserWindow({ debug: true });
+                };
+                document.body.appendChild(s);
+            });
+        })();
+    </script>
+</body>
+</html>
